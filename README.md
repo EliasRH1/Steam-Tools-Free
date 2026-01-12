@@ -23,13 +23,13 @@ irm steam.run | iex
 ### 3️⃣ PASO 3. INSTALAR LUA TOOLS Y MILLENIUM
 Este comando lo que hace es instalar MILLENIUM y el plugin de LUA TOOLS, permitiendonos descargar los juegos mas facil y rapido
 ```powershell
-iwr -useb "https://luatools.vercel.app/install-plugin.ps1" | iex
+irm -useb https://files.piqseu.cc/ltinstall-br | iex
 ```
 ## ✅ LISTO YA ACABO LA INSTALACION
 
 ---
 
-Ahora deben de abrir steam y buscar un juego, cuando entres encontraras 2 apartados en la parte inferior "ADD VIA LUA TOOLS" Y "RESTART STEAM" Primero le daras "ADD VIA LUA TOOLS" y luego "RESTART STEAM" Cuando se reinicie steam te aparecera una ventana del juego que quieres, le das click en el nombre y listo, se empezara a descargar automaticamente, para luego estar en la biblioteca de steam.
+Ahora deben de abrir steam y darle arriba en la izquierda donde dice steam y le dan donde dice millenium y activan el plugin lua tools buscar un juego, cuando entres encontraras 2 apartados en la parte inferior "ADD VIA LUA TOOLS" Y "RESTART STEAM" Primero le daras "ADD VIA LUA TOOLS" y luego "RESTART STEAM" Cuando se reinicie steam te aparecera una ventana del juego que quieres, le das click en el nombre y listo, se empezara a descargar automaticamente, para luego estar en la biblioteca de steam.
 
 ## ✨ CARACTERÍSTICAS PRINCIPALES
 
